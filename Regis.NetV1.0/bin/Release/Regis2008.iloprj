@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NineRays.ILOMD.Options.Project>
+  <AssemblyList>
+    <NineRays.ILOMD.Options.AssemblyFileName>
+      <ObfuscationOptions>
+        <NineRays.ILOMD.Options.Options>
+          <SoftwareWatermark>
+          </SoftwareWatermark>
+        </NineRays.ILOMD.Options.Options>
+      </ObfuscationOptions>
+      <Name>.\Regis2008.exe</Name>
+    </NineRays.ILOMD.Options.AssemblyFileName>
+  </AssemblyList>
+  <StrongNameKeyFile>
+  </StrongNameKeyFile>
+  <LayoutInfo>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Layout&gt;
+  &lt;Window Guid="1ab51f96-7428-4b68-9f25-0af0d8415f26" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="334" LastFixedDockLocation="Left" LastFixedLayoutGuid="2d5c62d8-e50f-4266-b007-a4d2793b653b" LastLayoutGuid="2d5c62d8-e50f-4266-b007-a4d2793b653b" /&gt;
+  &lt;Window Guid="16bbe2d2-5504-4cd4-82f2-6737d26493b8" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="334" LastFixedDockLocation="Left" LastFixedLayoutGuid="2d5c62d8-e50f-4266-b007-a4d2793b653b" LastLayoutGuid="2d5c62d8-e50f-4266-b007-a4d2793b653b" /&gt;
+  &lt;Window Guid="d011ae1a-b131-40cb-8ce1-4454c2694fcd" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="334" LastFixedDockLocation="Left" LastFixedLayoutGuid="2d5c62d8-e50f-4266-b007-a4d2793b653b" LastLayoutGuid="2d5c62d8-e50f-4266-b007-a4d2793b653b" /&gt;
+  &lt;Container Dock="3" ContentSize="334"&gt;
+    &lt;SplitLayoutSystem WorkingSize="334, 608" SplitMode="0"&gt;
+      &lt;ControlLayoutSystem WorkingSize="334, 608" Guid="2d5c62d8-e50f-4266-b007-a4d2793b653b" Collapsed="0" SelectedControl="1ab51f96-7428-4b68-9f25-0af0d8415f26"&gt;
+        &lt;Controls&gt;
+          &lt;Control Guid="1ab51f96-7428-4b68-9f25-0af0d8415f26" /&gt;
+          &lt;Control Guid="d011ae1a-b131-40cb-8ce1-4454c2694fcd" /&gt;
+          &lt;Control Guid="16bbe2d2-5504-4cd4-82f2-6737d26493b8" /&gt;
+        &lt;/Controls&gt;
+      &lt;/ControlLayoutSystem&gt;
+    &lt;/SplitLayoutSystem&gt;
+  &lt;/Container&gt;
+&lt;/Layout&gt;</LayoutInfo>
+</NineRays.ILOMD.Options.Project>

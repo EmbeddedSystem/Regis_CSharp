@@ -1,0 +1,10 @@
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\Regis.NetV1.0.exe
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\Regis.NetV1.0.pdb
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet._0.FormControl.resources
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet._0.FormGraph.resources
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis.NetV1._0.Properties.Resources.resources
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis.NetV1.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis.NetV1.0.exe
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis.NetV1.0.pdb

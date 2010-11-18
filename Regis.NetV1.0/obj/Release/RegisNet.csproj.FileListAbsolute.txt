@@ -1,0 +1,35 @@
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\RegisNet.FormCloseOrTray.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.FormSplashScreen.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.Properties.Resources.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\RegisNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.FormControl.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.FormGraph.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Release\Regis2008.exe.manifest
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Release\Regis2008.application
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Release\Regis2008.exe
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Release\Regis2008.pdb
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Release\ZedGraph.dll
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.TrustInfo.xml
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.exe.manifest
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.application
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.exe
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Release\Regis2008.pdb
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.exe
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.pdb
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\bin\Release\Regis2008.exe.manifest
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\bin\Release\Regis2008.application
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\bin\Release\Regis2008.exe
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\bin\Release\ZedGraph.dll
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\ResolveAssemblyReference.cache
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\RegisNet.FormCloseOrTray.resources
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.FormControl.resources
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.FormGraph.resources
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.FormSplashScreen.resources
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.Properties.Resources.resources
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\RegisNet.csproj.GenerateResource.Cache
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.TrustInfo.xml
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.exe.manifest
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.application
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\bin\Release\Regis2008.pdb
+D:\HOME_WORK\Евромикс\Regis.NetV1.0_последний\Regis.NetV1.0_последний\Regis.NetV1.0\obj\Release\Regis2008.DownloadForm.resources

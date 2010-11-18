@@ -1,0 +1,37 @@
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\RegisNet.exe
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\RegisNet.pdb
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.Properties.Resources.resources
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.exe
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.pdb
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.FormControl.resources
+C:\Documents and Settings\1\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.FormGraph.resources
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.exe
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.pdb
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.FormControl.resources
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.FormGraph.resources
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.Properties.Resources.resources
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\RegisNet.exe
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\RegisNet.pdb
+C:\Documents and Settings\alexbir.FORTE_IT.000\Мои документы\Visual Studio 2008\Projects\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\Regis2008.exe.manifest
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\Regis2008.application
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\Regis2008.exe
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\bin\Debug\Regis2008.pdb
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\RegisNet.FormCloseOrTray.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.FormControl.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.FormGraph.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.FormSplashScreen.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.Properties.Resources.resources
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.TrustInfo.xml
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.exe.manifest
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.application
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.exe
+C:\Documents and Settings\1\Рабочий стол\Regis.NetV1.0\Regis.NetV1.0\obj\Debug\Regis2008.pdb

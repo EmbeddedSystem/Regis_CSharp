@@ -1,0 +1,624 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/d:Properties/f:AssemblyInfo.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/d:Properties/f:Settings.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/d:Properties/f:Resources.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/d:Properties/f:Resources.resx" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormCloseOrTray.cs" caret="434" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormSplashScreen.Designer.cs" caret="668" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormSplashScreen.cs" caret="356" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormGraph.Designer.cs" caret="31" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormGraph.cs" caret="4642" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Comment.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Signal.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Curve.cs" caret="0" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:DownloadForm.cs" caret="424" scrollPosition="0|10" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Pirometer.cs" caret="609" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Program.cs" caret="625" scrollPosition="0|12" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="12030" scrollPosition="0|322" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="71592" scrollPosition="0|1905" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Program.cs" caret="114" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:Pirometer.cs" caret="99" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="23843" scrollPosition="0|594" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="64654" scrollPosition="0|1712" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="329" scrollPosition="0|3" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="45106" scrollPosition="0|1250" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="23597" scrollPosition="0|592" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="6866" scrollPosition="0|178" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="152" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="45468" scrollPosition="0|1154" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="43955" scrollPosition="0|1106" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="72419" scrollPosition="0|1937" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="71385" scrollPosition="0|1893" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="72019" scrollPosition="0|1924" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="6044" scrollPosition="0|158" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="10212" scrollPosition="0|263" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="18453" scrollPosition="0|407" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="11807" scrollPosition="0|286" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="11948" scrollPosition="0|291" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="12385" scrollPosition="0|302" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="12005" scrollPosition="0|281" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="321" scrollPosition="0|3" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="673" scrollPosition="0|0" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="10121" scrollPosition="0|259" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="11524" scrollPosition="0|291" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="12045" scrollPosition="0|328" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="10282" scrollPosition="0|276" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:RS232.cs" caret="70567" scrollPosition="0|1876" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="11346" scrollPosition="0|276" />
+      <File id="04FEDC7E-05E9-45C9-8952-D785D26D0F58/f:FormControl.cs" caret="11086" scrollPosition="0|290" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="StickyWindow" priority="1" />
+      <Item value="stickyWindow" priority="8" />
+      <Item value="StickGap" priority="0" />
+      <Item value="StickOnMove" priority="0" />
+      <Item value="StickOnResize" priority="0" />
+      <Item value="StickToOther" priority="0" />
+      <Item value="StickToScreen" priority="0" />
+      <Item value="FormControl" priority="8" />
+      <Item value="formGraph" priority="24" />
+      <Item value="Show" priority="24" />
+      <Item value="ToString" priority="16" />
+      <Item value="Location" priority="22" />
+      <Item value="X" priority="21" />
+      <Item value="Y" priority="8" />
+      <Item value="formControl" priority="19" />
+      <Item value="Point" priority="2" />
+      <Item value="Text" priority="45" />
+      <Item value="oldX" priority="0" />
+      <Item value="oldY" priority="0" />
+      <Item value="buttonShowGraph" priority="1" />
+      <Item value="Hide" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Collections" priority="1" />
+      <Item value="Generic" priority="0" />
+      <Item value="textBox12" priority="0" />
+      <Item value="message" priority="0" />
+      <Item value="Delegate" priority="0" />
+      <Item value="EventHandler" priority="0" />
+      <Item value="two" priority="0" />
+      <Item value="Clear" priority="4" />
+      <Item value="received" priority="11" />
+      <Item value="Trim" priority="0" />
+      <Item value="colorDialog1" priority="2" />
+      <Item value="ShowDialog" priority="2" />
+      <Item value="Color" priority="26" />
+      <Item value="Controls" priority="0" />
+      <Item value="zedGraphControl1" priority="11" />
+      <Item value="GraphPane" priority="13" />
+      <Item value="Chart" priority="0" />
+      <Item value="Fill" priority="2" />
+      <Item value="label23" priority="0" />
+      <Item value="BackColor" priority="5" />
+      <Item value="Empty" priority="0" />
+      <Item value="upColor" priority="1" />
+      <Item value="Checked" priority="13" />
+      <Item value="IsVisible" priority="3" />
+      <Item value="Update" priority="0" />
+      <Item value="Invalidate" priority="1" />
+      <Item value="DoPrint" priority="0" />
+      <Item value="DoPrintPreview" priority="0" />
+      <Item value="DoPageSetup" priority="0" />
+      <Item value="SaveAs" priority="1" />
+      <Item value="ZoomStepFraction" priority="0" />
+      <Item value="RestoreScale" priority="0" />
+      <Item value="ZoomOutAll" priority="0" />
+      <Item value="FromArgb" priority="0" />
+      <Item value="Random" priority="0" />
+      <Item value="Next" priority="0" />
+      <Item value="checkBoxFullScreen" priority="0" />
+      <Item value="Opacity" priority="2" />
+      <Item value="buttonRefresh" priority="0" />
+      <Item value="Enabled" priority="10" />
+      <Item value="FormSplashScreen" priority="2" />
+      <Item value="splashScreen" priority="0" />
+      <Item value="Close" priority="6" />
+      <Item value="FormGraph" priority="1" />
+      <Item value="override" priority="1" />
+      <Item value="WindowState" priority="3" />
+      <Item value="FormWindowState" priority="2" />
+      <Item value="Normal" priority="1" />
+      <Item value="float" priority="4" />
+      <Item value="Cursor" priority="1" />
+      <Item value="Current" priority="0" />
+      <Item value="textBoxTitle" priority="1" />
+      <Item value="Title" priority="3" />
+      <Item value="checkBoxViewTitle" priority="0" />
+      <Item value="RefreshGraph" priority="20" />
+      <Item value="R" priority="0" />
+      <Item value="R_red" priority="1" />
+      <Item value="R_yel" priority="1" />
+      <Item value="numberOfCopy" priority="3" />
+      <Item value="ApplicationId" priority="1" />
+      <Item value="Mutex" priority="0" />
+      <Item value="Application" priority="6" />
+      <Item value="ProductName" priority="0" />
+      <Item value="MessageBox" priority="14" />
+      <Item value="Process" priority="0" />
+      <Item value="GetProcessesByName" priority="1" />
+      <Item value="Length" priority="4" />
+      <Item value="GetProcesses" priority="0" />
+      <Item value="ProcessThread" priority="0" />
+      <Item value="GetCurrentProcess" priority="0" />
+      <Item value="ProcessName" priority="0" />
+      <Item value="notifyIcon1" priority="1" />
+      <Item value="closing" priority="1" />
+      <Item value="foreach" priority="6" />
+      <Item value="SymbolType" priority="3" />
+      <Item value="port" priority="5" />
+      <Item value="Pirometer" priority="0" />
+      <Item value="pirometer_" priority="0" />
+      <Item value="pirometer" priority="12" />
+      <Item value="curve" priority="3" />
+      <Item value="points" priority="1" />
+      <Item value="Add" priority="7" />
+      <Item value="AddCurve" priority="0" />
+      <Item value="curveName" priority="1" />
+      <Item value="curveColor" priority="0" />
+      <Item value="SystemName" priority="12" />
+      <Item value="Red" priority="1" />
+      <Item value="DateTime" priority="4" />
+      <Item value="Now" priority="2" />
+      <Item value="XAxis" priority="8" />
+      <Item value="Type" priority="3" />
+      <Item value="AxisType" priority="0" />
+      <Item value="Date" priority="0" />
+      <Item value="Ordinal" priority="0" />
+      <Item value="MakeUnique" priority="0" />
+      <Item value="DateAsOrdinal" priority="0" />
+      <Item value="Symbol" priority="1" />
+      <Item value="None" priority="2" />
+      <Item value="Scale" priority="9" />
+      <Item value="BaseTic" priority="0" />
+      <Item value="Format" priority="2" />
+      <Item value="FormatAuto" priority="3" />
+      <Item value="Mag" priority="0" />
+      <Item value="MajorStep" priority="0" />
+      <Item value="MajorStepAuto" priority="1" />
+      <Item value="MajorUnit" priority="0" />
+      <Item value="Max" priority="0" />
+      <Item value="MaxAuto" priority="0" />
+      <Item value="MaxGrace" priority="0" />
+      <Item value="Min" priority="5" />
+      <Item value="MinAuto" priority="2" />
+      <Item value="MinGrace" priority="0" />
+      <Item value="MinorStep" priority="1" />
+      <Item value="MinorStepAuto" priority="1" />
+      <Item value="MinorUnit" priority="0" />
+      <Item value="ZoomEvent" priority="0" />
+      <Item value="checkBox9_CheckedChanged_1" priority="0" />
+      <Item value="Enter" priority="0" />
+      <Item value="checkedListBox2" priority="0" />
+      <Item value="checkBox2" priority="0" />
+      <Item value="ZoomPane" priority="0" />
+      <Item value="PointF" priority="2" />
+      <Item value="MinorTic" priority="0" />
+      <Item value="Size" priority="4" />
+      <Item value="checkBox3" priority="0" />
+      <Item value="VerticalScroll" priority="1" />
+      <Item value="TryParse" priority="2" />
+      <Item value="HorizontalScroll" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="YAxis" priority="5" />
+      <Item value="IsEnableHZoom" priority="0" />
+      <Item value="IsEnableVZoom" priority="0" />
+      <Item value="IsShowPointValues" priority="0" />
+      <Item value="PointDateFormat" priority="0" />
+      <Item value="IsShowContextMenu" priority="0" />
+      <Item value="Button" priority="3" />
+      <Item value="MouseButtons" priority="1" />
+      <Item value="Right" priority="0" />
+      <Item value="button1" priority="1" />
+      <Item value="Visible" priority="1" />
+      <Item value="false" priority="8" />
+      <Item value="Items" priority="18" />
+      <Item value="SetItemChecked" priority="8" />
+      <Item value="SelectionMode" priority="3" />
+      <Item value="MultiExtended" priority="0" />
+      <Item value="SetItemCheckState" priority="1" />
+      <Item value="CheckState" priority="2" />
+      <Item value="Indeterminate" priority="0" />
+      <Item value="available" priority="1" />
+      <Item value="checkedListBoxPorts" priority="14" />
+      <Item value="DataSource" priority="8" />
+      <Item value="BeginUpdate" priority="0" />
+      <Item value="allPorts" priority="0" />
+      <Item value="RS232" priority="10" />
+      <Item value="Online" priority="9" />
+      <Item value="CheckBox" priority="0" />
+      <Item value="Count" priority="12" />
+      <Item value="CurrentValue" priority="4" />
+      <Item value="Unchecked" priority="0" />
+      <Item value="RemoveAt" priority="2" />
+      <Item value="tempArray" priority="0" />
+      <Item value="ports" priority="1" />
+      <Item value="AddRange" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="return" priority="7" />
+      <Item value="TXterminator" priority="0" />
+      <Item value="SelectedValue" priority="0" />
+      <Item value="NewValue" priority="1" />
+      <Item value="RefreshPorts" priority="2" />
+      <Item value="IndexOf" priority="2" />
+      <Item value="doNotExecuteEvent" priority="1" />
+      <Item value="ToArray" priority="0" />
+      <Item value="Index" priority="1" />
+      <Item value="CheckedItems" priority="0" />
+      <Item value="IsPortAvailable" priority="0" />
+      <Item value="CommBase" priority="0" />
+      <Item value="PortStatus" priority="0" />
+      <Item value="absent" priority="0" />
+      <Item value="LabelGap" priority="0" />
+      <Item value="myPane" priority="11" />
+      <Item value="MajorGrid" priority="0" />
+      <Item value="DashOff" priority="0" />
+      <Item value="IsZeroLine" priority="0" />
+      <Item value="Gray" priority="0" />
+      <Item value="Message" priority="4" />
+      <Item value="SelectedItem" priority="7" />
+      <Item value="labelEps" priority="0" />
+      <Item value="labelT" priority="1" />
+      <Item value="labelComName" priority="0" />
+      <Item value="IsMatch" priority="0" />
+      <Item value="IsNullOrEmpty" priority="3" />
+      <Item value="Substring" priority="1" />
+      <Item value="CheckCRC" priority="0" />
+      <Item value="GetTemperatureFromString" priority="0" />
+      <Item value="GetEpsilonFromString" priority="0" />
+      <Item value="Parse" priority="0" />
+      <Item value="numericUpDownEpsilon" priority="2" />
+      <Item value="Value" priority="11" />
+      <Item value="epsilon" priority="3" />
+      <Item value="protected" priority="0" />
+      <Item value="Send" priority="1" />
+      <Item value="Write" priority="0" />
+      <Item value="windowsState" priority="0" />
+      <Item value="Left" priority="2" />
+      <Item value="AddStick" priority="1" />
+      <Item value="ZedGraph" priority="8" />
+      <Item value="StickItem" priority="1" />
+      <Item value="stick" priority="0" />
+      <Item value="zgc" priority="7" />
+      <Item value="double" priority="3" />
+      <Item value="Blue" priority="2" />
+      <Item value="ArrowObj" priority="0" />
+      <Item value="TextObj" priority="8" />
+      <Item value="myText" priority="3" />
+      <Item value="AxisXYScale" priority="7" />
+      <Item value="AlignH" priority="2" />
+      <Item value="Center" priority="4" />
+      <Item value="AlignV" priority="0" />
+      <Item value="PaneFraction" priority="3" />
+      <Item value="ChartFraction" priority="2" />
+      <Item value="Rect" priority="2" />
+      <Item value="FindNearestObject" priority="0" />
+      <Item value="sender" priority="2" />
+      <Item value="GraphObjList" priority="7" />
+      <Item value="GetImage" priority="0" />
+      <Item value="Graphics" priority="1" />
+      <Item value="base" priority="3" />
+      <Item value="this" priority="0" />
+      <Item value="CreateGraphics" priority="0" />
+      <Item value="dragObject" priority="4" />
+      <Item value="typeof" priority="1" />
+      <Item value="GetType" priority="2" />
+      <Item value="CoordinateFrame" priority="1" />
+      <Item value="CoordType" priority="3" />
+      <Item value="newPt" priority="0" />
+      <Item value="startLoc" priority="2" />
+      <Item value="startPt" priority="1" />
+      <Item value="mousePt" priority="0" />
+      <Item value="BottomRight" priority="2" />
+      <Item value="X2" priority="0" />
+      <Item value="X1" priority="0" />
+      <Item value="Black" priority="3" />
+      <Item value="XDate" priority="1" />
+      <Item value="Shift" priority="0" />
+      <Item value="startX" priority="0" />
+      <Item value="startY" priority="0" />
+      <Item value="curX" priority="0" />
+      <Item value="FontSpec" priority="4" />
+      <Item value="IsDropShadow" priority="0" />
+      <Item value="Border" priority="5" />
+      <Item value="shiftComent" priority="0" />
+      <Item value="checkedListBoxComments" priority="1" />
+      <Item value="List&lt;TextObj&gt;" priority="0" />
+      <Item value="comments" priority="6" />
+      <Item value="InflateFactor" priority="0" />
+      <Item value="Remove" priority="6" />
+      <Item value="listBoxComments" priority="3" />
+      <Item value="null" priority="1" />
+      <Item value="DisplayMember" priority="2" />
+      <Item value="fraction" priority="0" />
+      <Item value="Comment" priority="1" />
+      <Item value="ZedGraphControl" priority="0" />
+      <Item value="SelectedIndex" priority="4" />
+      <Item value="timerSearchLighting" priority="0" />
+      <Item value="highlightingComment" priority="0" />
+      <Item value="TopLevel" priority="0" />
+      <Item value="TopMost" priority="2" />
+      <Item value="Region" priority="0" />
+      <Item value="#region" priority="1" />
+      <Item value="#endregion" priority="5" />
+      <Item value="labelMinT" priority="2" />
+      <Item value="Points" priority="4" />
+      <Item value="Line" priority="3" />
+      <Item value="FindMinimum" priority="0" />
+      <Item value="FindMaximum" priority="0" />
+      <Item value="MaxValue" priority="1" />
+      <Item value="MinValue" priority="1" />
+      <Item value="labelMaxT" priority="0" />
+      <Item value="Tmin" priority="0" />
+      <Item value="Tmax" priority="1" />
+      <Item value="T" priority="0" />
+      <Item value="textBoxComment" priority="0" />
+      <Item value="Height" priority="2" />
+      <Item value="Delta" priority="0" />
+      <Item value="string" priority="6" />
+      <Item value="Replace" priority="0" />
+      <Item value="Char" priority="1" />
+      <Item value="CurveList" priority="2" />
+      <Item value="curves" priority="3" />
+      <Item value="checkedListBoxCurves" priority="1" />
+      <Item value="LineItem" priority="8" />
+      <Item value="Label" priority="4" />
+      <Item value="Width" priority="1" />
+      <Item value="lineItem_" priority="1" />
+      <Item value="lineItem" priority="0" />
+      <Item value="curveName_" priority="1" />
+      <Item value="value" priority="2" />
+      <Item value="Curve" priority="3" />
+      <Item value="numericUpDownCurveWidth" priority="0" />
+      <Item value="decimal" priority="1" />
+      <Item value="labelCurveColor" priority="1" />
+      <Item value="colorDialog" priority="0" />
+      <Item value="Disconnected" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="Signal" priority="6" />
+      <Item value="List" priority="0" />
+      <Item value="signals" priority="3" />
+      <Item value="betterCheckedListBoxSignals" priority="0" />
+      <Item value="listBoxSignals" priority="4" />
+      <Item value="textBoxSignalName" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="textBoxSignalMin" priority="1" />
+      <Item value="numericUpDownMax" priority="0" />
+      <Item value="numericUpDownMin" priority="0" />
+      <Item value="numericUpDownSignalMin" priority="1" />
+      <Item value="numericUpDownSignalMax" priority="0" />
+      <Item value="openFileDialog" priority="0" />
+      <Item value="labelSound" priority="1" />
+      <Item value="Sound" priority="2" />
+      <Item value="DialogResult" priority="3" />
+      <Item value="OK" priority="2" />
+      <Item value="FileName" priority="0" />
+      <Item value="fontDialog" priority="1" />
+      <Item value="Font" priority="0" />
+      <Item value="Family" priority="0" />
+      <Item value="FontFamily" priority="0" />
+      <Item value="IsBold" priority="0" />
+      <Item value="Bold" priority="0" />
+      <Item value="IsItalic" priority="0" />
+      <Item value="Italic" priority="0" />
+      <Item value="IsUnderline" priority="0" />
+      <Item value="Underline" priority="0" />
+      <Item value="textObj" priority="3" />
+      <Item value="ZOrder" priority="1" />
+      <Item value="H_BehindAll" priority="2" />
+      <Item value="A_InFront" priority="1" />
+      <Item value="Move" priority="0" />
+      <Item value="oldColor" priority="2" />
+      <Item value="D_BehindAxis" priority="0" />
+      <Item value="LightYellow" priority="4" />
+      <Item value="box" priority="0" />
+      <Item value="XScaleYChartFraction" priority="0" />
+      <Item value="XChartFractionYPaneFraction" priority="0" />
+      <Item value="XChartFractionYScale" priority="0" />
+      <Item value="F_BehindGrid" priority="2" />
+      <Item value="G_BehindChartFill" priority="0" />
+      <Item value="IsClippedToChartRect" priority="0" />
+      <Item value="graphObj" priority="0" />
+      <Item value="YellowGreen" priority="0" />
+      <Item value="boxObj" priority="4" />
+      <Item value="SoundPlayer" priority="2" />
+      <Item value="player" priority="2" />
+      <Item value="Play" priority="3" />
+      <Item value="SoundLocation" priority="1" />
+      <Item value="pane" priority="1" />
+      <Item value="Delete" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="R_green" priority="0" />
+      <Item value="SetIconWarning" priority="0" />
+      <Item value="SetIconDataOK" priority="1" />
+      <Item value="SetIconError" priority="0" />
+      <Item value="signal" priority="0" />
+      <Item value="CheckValueForSignal" priority="0" />
+      <Item value="WindowsMediaPlayer" priority="1" />
+      <Item value="settings" priority="0" />
+      <Item value="URL" priority="0" />
+      <Item value="controls" priority="0" />
+      <Item value="Reverse" priority="0" />
+      <Item value="labelSignalColor" priority="1" />
+      <Item value="Up" priority="0" />
+      <Item value="Insert" priority="1" />
+      <Item value="portName" priority="0" />
+      <Item value="ToShortTimeString" priority="1" />
+      <Item value="ToLongTimeString" priority="2" />
+      <Item value="Directory" priority="0" />
+      <Item value="Exists" priority="0" />
+      <Item value="CreateDirectory" priority="0" />
+      <Item value="Stop" priority="0" />
+      <Item value="Timer" priority="0" />
+      <Item value="Interval" priority="1" />
+      <Item value="Tick" priority="0" />
+      <Item value="muteTimer" priority="0" />
+      <Item value="Month" priority="1" />
+      <Item value="Exit" priority="1" />
+      <Item value="toolTipTray" priority="0" />
+      <Item value="UseAnimation" priority="0" />
+      <Item value="UseFading" priority="0" />
+      <Item value="SetToolTip" priority="0" />
+      <Item value="notifyIcon" priority="0" />
+      <Item value="ControlBox" priority="0" />
+      <Item value="label1" priority="0" />
+      <Item value="ToShortDateString" priority="1" />
+      <Item value="Day" priority="0" />
+      <Item value="dateTimePicker1" priority="0" />
+      <Item value="BindingContext" priority="0" />
+      <Item value="temp" priority="0" />
+      <Item value="CheckedIndices" priority="0" />
+      <Item value="MessageBoxButtons" priority="2" />
+      <Item value="YesNoCancel" priority="0" />
+      <Item value="Yes" priority="0" />
+      <Item value="No" priority="0" />
+      <Item value="Cancel" priority="1" />
+      <Item value="SaveToFile" priority="0" />
+      <Item value="numericUpDownMuteTime" priority="0" />
+      <Item value="Start" priority="1" />
+      <Item value="ItemCheck" priority="1" />
+      <Item value="Method" priority="1" />
+      <Item value="Target" priority="0" />
+      <Item value="ItemCheckEventHandler" priority="0" />
+      <Item value="White" priority="0" />
+      <Item value="LightGreen" priority="0" />
+      <Item value="none" priority="0" />
+      <Item value="INFO" priority="0" />
+      <Item value="warning" priority="0" />
+      <Item value="error" priority="0" />
+      <Item value="eventlogInfo" priority="0" />
+      <Item value="New" priority="0" />
+      <Item value="muteAllSounds" priority="0" />
+      <Item value="SendKeys" priority="0" />
+      <Item value="Keys" priority="0" />
+      <Item value="F1" priority="0" />
+      <Item value="SendWait" priority="0" />
+      <Item value="ShowHelp" priority="0" />
+      <Item value="ExecutablePath" priority="0" />
+      <Item value="StartupPath" priority="0" />
+      <Item value="ASCII" priority="0" />
+      <Item value="Flush" priority="1" />
+      <Item value="epsMustBeChanged" priority="2" />
+      <Item value="Contains" priority="0" />
+      <Item value="IsNumber" priority="0" />
+      <Item value="IOException" priority="0" />
+      <Item value="RetryCancel" priority="0" />
+      <Item value="MessageBoxIcon" priority="0" />
+      <Item value="Error" priority="0" />
+      <Item value="switch" priority="1" />
+      <Item value="Retry" priority="0" />
+      <Item value="CurrentThread" priority="1" />
+      <Item value="ThreadState" priority="0" />
+      <Item value="Sleep" priority="0" />
+      <Item value="ShowError" priority="0" />
+      <Item value="CloseFile" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="receivedChar" priority="0" />
+      <Item value="ByteReceived" priority="0" />
+      <Item value="Regis2008" priority="1" />
+      <Item value="SafeHandles" priority="0" />
+      <Item value="port_ByteReceived" priority="1" />
+      <Item value="downloadForm" priority="0" />
+      <Item value="ASCIIEncoding" priority="1" />
+      <Item value="port_ErrorReceived" priority="0" />
+      <Item value="byte" priority="4" />
+      <Item value="int" priority="1" />
+      <Item value="counter" priority="1" />
+      <Item value="static" priority="1" />
+      <Item value="state" priority="2" />
+      <Item value="case" priority="2" />
+      <Item value="break" priority="3" />
+      <Item value="default" priority="0" />
+      <Item value="if" priority="3" />
+      <Item value="receivedByte" priority="6" />
+      <Item value="byteCounter" priority="2" />
+      <Item value="device" priority="4" />
+      <Item value="else" priority="2" />
+      <Item value="Byte" priority="0" />
+      <Item value="new" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RS232_Namespase.CommBase+StopBits">
+      <Item value="two" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RS232_Namespase.RS232">
+      <Item value="ByteReceived" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="SafeWaitHandle" priority="1" />
+      <Item value="Handle" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.AutoResetEvent">
+      <Item value="SafeWaitHandle" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IntPtr">
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Regis2008.RS232">
+      <Item value="ByteReceived" priority="1" />
+      <Item value="receivedChar" priority="0" />
+      <Item value="ErrorReceived" priority="0" />
+      <Item value="pirometer" priority="0" />
+      <Item value="Instance" priority="0" />
+      <Item value="received" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Byte">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Regis2008.DownloadForm">
+      <Item value="label1" priority="0" />
+      <Item value="textBox1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.ASCIIEncoding">
+      <Item value="Convert" priority="0" />
+      <Item value="ASCII" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim" priority="0" />
+      <Item value="Substring" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
